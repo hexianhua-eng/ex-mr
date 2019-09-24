@@ -1,0 +1,29 @@
+1.进入用户主目录
+2.创建目录dir-kz
+3.然后进入目录dir-kz，创建两个子目录dir-3172和dir-3171
+4.把子目录dir-3171更名为dir-317201
+5.在子目录dir-317201中创建子目录dir-31720101
+6.把目录dir-317201及其子目录拷贝到dir-3172目录中
+7.进入目录dir-kz，创建文件1.txt 输入linux unix windows
+8.在文件1.txt中搜索字符串unix，并高亮显示
+9.vim编辑1.txt文件设置行数
+10.把1.txt 用学过的命令打包为1.tar.gz
+11.删除文件1.txt
+12.把1.tar.gz解压到根目录/usr下
+13.删除文件夹dir-kz
+14.实现三台虚拟机设置静态IP，可以访问外网，互相之间免密登陆。
+15.显示历史命令，并用！执行
+16.使用管道命令查找ssh进程
+17.编辑hello.txt,输入内容：
+hello ubuntu hello
+aaa bbb ccc ooo
+ubuntu nihao
+18.查找hello.txt文件中以u开头的行内容
+19.查找hello.txt文件中不以u开头的行内容
+20.查找hello.txt文件中以o结尾的行内容
+21.查找hello.txt文件中包含aaa或者bbb的行
+22.每分钟执行一次date命令，并把执行的结果输入到date.txt
+
+
+
+
